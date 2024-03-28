@@ -14,8 +14,6 @@ ALLOWED_HOSTS = [
     'createtaski.servehttp.com',
 ]
 
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
